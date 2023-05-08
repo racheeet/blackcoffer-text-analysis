@@ -1,0 +1,9 @@
+scrapped_data contains the scrapped data from web
+
+pre_main.ipynb contains working on sample dataFrame
+
+main.ipynb show how the script runs
+
+main.py is the script which scraps, analyzes, and generates a dataFrame similar to one which was directed
+
+OUTPUT DATA STRUCTURE contains the analysis of the scrapped texts
